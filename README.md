@@ -1,6 +1,6 @@
 # Semi-Active Vibration Control of Seat Suspension using MR Damper
 
-This project focuses on the **semi-active vibration control of a seat suspension system** using a **Magneto-Rheological (MR) damper**. The work has been carried out for **UNO MINDA**, in collaboration with **IIT Madras**, with the aim of enhancing ride comfort and reducing vibration transmissibility in automotive seating systems.
+This project focuses on the **semi-active vibration control of a seat suspension system** using a **Magneto-Rheological (MR) damper**. The work has been carried out for **UNO MINDA**, in collaboration with **IIT Madras**, with the aim of enhancing ride comfort and reducing vibration transmissibility in automotive seating systems.PLEASE LOAD ALL THE MATLAB FILES AND THEM RUN THE MAIN_SIMULATION_CODE.M FILE TO OBTAIN THE SIMULATION.
 
 ## Project Phases
 
